@@ -1,0 +1,31 @@
+apiVersion: tekton.dev/v1beta1
+kind: PipelineRun
+metadata:
+  name: ace-pipeline-run
+  namespace: cp4i
+  labels:
+    tekton.dev/pipeline: ace-pipeline
+spec:
+  params:
+    - name: IMAGE_NAME
+      value: 'image-registry.openshift-image-registry.svc:5000/cp4i/ace-pipeline'
+    - name: GIT_REPO
+      value: 'https://github.com/MGsus/ace-pipeline-demo'
+    - name: GIT_REVISION
+      value: master
+  pipelineRef:
+    name: ace-pipeline
+  serviceAccountName: pipeline
+  timeout: 1h0m0s
+  workspaces:
+    - name: workspace
+      volumeClaimTemplate:
+        spec:
+          accessModes:
+            - ReadWriteOnce
+          resources:
+            requests:
+              storage: 1Gi
+          storageClassName: ocs-storagecluster-cephfs
+          volumeMode: Filesystem
+        status: {}
