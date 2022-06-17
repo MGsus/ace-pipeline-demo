@@ -1,7 +1,7 @@
 apiVersion: appconnect.ibm.com/v1beta1
 kind: IntegrationServer
 metadata:
-  name: ace-tekton
+  name: ace-pipeline-demo
   namespace: cp4i
 spec:
   enableMetrics: true
@@ -12,7 +12,7 @@ spec:
   pod:
     containers:
       runtime:
-        image: 'image-registry.openshift-image-registry.svc:5000/cp4i/ace-tekton-pipe:latest'
+        image: 'image-registry.openshift-image-registry.svc:5000/cp4i/ace-image:latest'
         resources:
           limits:
             cpu: 300m

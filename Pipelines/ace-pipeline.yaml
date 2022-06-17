@@ -5,7 +5,7 @@ metadata:
   namespace: cp4i
 spec:
   params:
-    - default: 'image-registry.openshift-image-registry.svc:5000/cp4i/ace-pipeline'
+    - default: 'image-registry.openshift-image-registry.svc:5000/cp4i/ace-image:latest'
       name: IMAGE_NAME
       type: string
     - default: 'https://github.com/MGsus/ace-pipeline-demo'
