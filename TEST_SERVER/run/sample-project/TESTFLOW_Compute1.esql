@@ -2,9 +2,7 @@
 
 
 
-
-
-CREATE COMPUTE MODULE TESTFLOW_Compute
+CREATE COMPUTE MODULE TESTFLOW_Compute1
 	CREATE FUNCTION Main() RETURNS BOOLEAN
 	BEGIN
 		CALL CopyMessageHeaders();
@@ -23,10 +21,8 @@ CREATE COMPUTE MODULE TESTFLOW_Compute
 	END;
 
 	CREATE PROCEDURE CopyEntireMessage() BEGIN
-		SET OutputRoot = InputRoot;
-		SET OutputRoot.JSON.Data.age = 35;
---		SET OutputRoot.JSON.Data.type = 'Regular';
-		PROPAGATE TO TERMINAL 'out1' DELETE NONE;
-
+--		SET OutputRoot = InputRoot;
+		SET OutputRoot.JSON.Data.result = 'Voto aceptado';
+		SET OutputRoot.JSON.Data.timestamp = CURRENT_TIMESTAMP;
 	END;
 END MODULE;

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deploy:Deploy xmlns:deploy="http://www.ibm.com/xmlns/prod/wmb/deploy/6.0.0" overrideConfigurableProperties="false" includeESQL="false">
+  <deployables>
+    <deployable deployed="true" barResourceTimeStamp="1659971844381" workspaceResource="/sample-project/TESTFLOW_Compute1.esql">
+      <deployableStatus code="0" key="DEPLOYABLE_LAST_COMPILE_STATUS" message="&#xA;Processing file sample-project/TESTFLOW_Compute1.esql.&#xA;Successfully added file sample-project/TESTFLOW_Compute1.esql to BAR file.&#xA;" severity="0"/>
+      <barEntry name="TESTFLOW_Compute1.esql"/>
+    </deployable>
+    <deployable deployed="true" barResourceTimeStamp="1659724876055" workspaceResource="/sample-project/application.descriptor">
+      <deployableStatus code="0" key="DEPLOYABLE_LAST_COMPILE_STATUS" message="&#xA;Processing file sample-project/application.descriptor.&#xA;Successfully added file sample-project/application.descriptor to BAR file.&#xA;Elapsed time: 0 second(s).&#xA;&#xA;Successfully added file sample-project/application.descriptor to BAR file.&#xA;" severity="0"/>
+      <barEntry name="application.descriptor"/>
+    </deployable>
+    <deployable deployed="true" barResourceTimeStamp="1659971665658" workspaceResource="/sample-project/inputSchema.xsd">
+      <deployableStatus code="0" key="DEPLOYABLE_LAST_COMPILE_STATUS" message="&#xA;Processing file sample-project/inputSchema.xsd.&#xA;Successfully added file sample-project/inputSchema.xsd to BAR file.&#xA;" severity="0"/>
+      <barEntry name="inputSchema.xsd"/>
+    </deployable>
+    <deployable deployed="true" barResourceTimeStamp="1659972707381" workspaceResource="/sample-project/sampleFlow.msgflow">
+      <deployableStatus code="0" key="DEPLOYABLE_LAST_COMPILE_STATUS" message="&#xA;Processing file sample-project/sampleFlow.msgflow.&#xA;Successfully added file sample-project/sampleFlow.msgflow to BAR file.&#xA;" severity="0"/>
+      <barEntry name="sampleFlow.msgflow"/>
+    </deployable>
+    <deployable deployed="true" barResourceTimeStamp="1659972381167" workspaceResource="/sample-project/sampleFlow_Mapping.map">
+      <deployableStatus code="0" key="DEPLOYABLE_LAST_COMPILE_STATUS" message="&#xA;Processing file sample-project/sampleFlow_Mapping.map.&#xA;Successfully added file sample-project/sampleFlow_Mapping.map to BAR file.&#xA;" severity="0"/>
+      <barEntry name="sampleFlow_Mapping.map"/>
+    </deployable>
+  </deployables>
+</deploy:Deploy>

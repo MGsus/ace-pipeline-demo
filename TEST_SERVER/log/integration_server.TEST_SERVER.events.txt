@@ -1,0 +1,369 @@
+2022-08-08 14:35:26.624814Z: [Thread 20989] (Msg 1/1) BIP1990I: Integration server 'TEST_SERVER' starting initialization; version '12.0.3.0' (64-bit) 
+2022-08-08 14:35:26.631714Z: [Thread 20989] (Msg 1/1) BIP9905I: Initializing resource managers. 
+2022-08-08 14:35:28.705388Z: [Thread 20989] (Msg 1/1) BIP9906I: Reading deployed resources. 
+2022-08-08 14:35:28.708056Z: [Thread 20989] (Msg 1/1) BIP9907I: Initializing deployed resources. 
+2022-08-08 14:35:28.708916Z: [Thread 20989] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 14:35:28.845962Z: [Thread 20989] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 14:35:28.895382Z: [Thread 20989] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 14:35:28.895602Z: [Thread 20989] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo*'. 
+2022-08-08 14:35:28.895870Z: [Thread 20989] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 14:35:29.307198Z: [Thread 21078] (Msg 1/1) BIP2866I: IBM App Connect Enterprise administration security is inactive. 
+2022-08-08 14:35:29.314834Z: [Thread 21078] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7600' for 'RestAdmin http' connections. 
+2022-08-08 14:35:29.315974Z: [Thread 20989] (Msg 1/1) BIP1991I: Integration server has finished initialization. 
+2022-08-08 14:35:46.968444Z: [Thread 21000] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 14:35:46.972276Z: [Thread 21000] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 14:35:48.898992Z: [Thread 21000] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 14:35:48.899048Z: [Thread 21000] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 14:35:48.915504Z: [Thread 21000] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 14:35:48.936852Z: [Thread 21000] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 14:35:48.952520Z: [Thread 21000] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 14:35:48.983232Z: [Thread 21000] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 14:35:48.983256Z: [Thread 21000] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 14:35:48.983316Z: [Thread 21000] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 14:35:48.983348Z: [Thread 21000] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 14:35:48.983364Z: [Thread 21000] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 14:35:48.983476Z: [Thread 21000] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:10:38.437484Z: [Thread 21000] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:10:38.443044Z: [Thread 21000] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:10:40.873472Z: [Thread 21000] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:10:40.873524Z: [Thread 21000] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:10:40.889700Z: [Thread 21000] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:10:40.908056Z: [Thread 21000] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:10:42.983732Z: [Thread 21000] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:10:43.008956Z: [Thread 21000] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:10:43.040000Z: [Thread 21000] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:10:43.040056Z: [Thread 21000] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:10:43.040160Z: [Thread 21000] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:10:43.040188Z: [Thread 21000] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:10:43.040208Z: [Thread 21000] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:10:43.040316Z: [Thread 21000] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:14:31.379878Z: [Thread 21001] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:14:31.383870Z: [Thread 21001] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:14:35.899108Z: [Thread 21001] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:14:35.899164Z: [Thread 21001] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:14:35.914928Z: [Thread 21001] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:14:35.955704Z: [Thread 21001] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:14:36.060556Z: [Thread 21001] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:14:36.085856Z: [Thread 21001] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:14:36.116760Z: [Thread 21001] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:14:36.116816Z: [Thread 21001] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:14:36.116992Z: [Thread 21001] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:14:36.117032Z: [Thread 21001] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:14:36.117052Z: [Thread 21001] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:14:36.117188Z: [Thread 21001] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:15:14.831097Z: [Thread 21002] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:15:14.836497Z: [Thread 21002] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:15:15.878461Z: [Thread 21002] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:15:15.878524Z: [Thread 21002] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:15:15.882517Z: [Thread 21002] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:15:15.924894Z: [Thread 21002] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:15:16.017355Z: [Thread 21002] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:15:16.035812Z: [Thread 21002] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:15:16.066664Z: [Thread 21002] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:15:16.066698Z: [Thread 21002] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:15:16.066816Z: [Thread 21002] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:15:16.066841Z: [Thread 21002] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:15:16.066860Z: [Thread 21002] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:15:16.066971Z: [Thread 21002] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:15:41.399576Z: [Thread 21003] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:15:41.403400Z: [Thread 21003] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:15:44.721080Z: [Thread 21003] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:15:44.721136Z: [Thread 21003] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:15:44.733800Z: [Thread 21003] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:15:44.770380Z: [Thread 21003] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:15:44.840168Z: [Thread 21003] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:15:44.866724Z: [Thread 21003] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:15:44.897760Z: [Thread 21003] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:15:44.897812Z: [Thread 21003] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:15:44.897968Z: [Thread 21003] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:15:44.898008Z: [Thread 21003] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:15:44.898032Z: [Thread 21003] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:15:44.898188Z: [Thread 21003] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:16:05.218897Z: [Thread 21004] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:16:05.224382Z: [Thread 21004] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:16:07.628199Z: [Thread 21004] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:16:07.628248Z: [Thread 21004] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:16:07.646164Z: [Thread 21004] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:16:07.676781Z: [Thread 21004] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:16:07.780442Z: [Thread 21004] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:16:07.807948Z: [Thread 21004] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:16:07.838933Z: [Thread 21004] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:16:07.838987Z: [Thread 21004] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:16:07.839196Z: [Thread 21004] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:16:07.839242Z: [Thread 21004] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:16:07.839271Z: [Thread 21004] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:16:07.839417Z: [Thread 21004] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:16:21.979590Z: [Thread 21005] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:16:21.983642Z: [Thread 21005] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:16:26.107908Z: [Thread 21005] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:16:26.107966Z: [Thread 21005] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:16:26.113342Z: [Thread 21005] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:16:26.149426Z: [Thread 21005] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:16:26.207594Z: [Thread 21005] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:16:26.223872Z: [Thread 21005] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:16:26.254656Z: [Thread 21005] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:16:26.254688Z: [Thread 21005] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:16:26.254782Z: [Thread 21005] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:16:26.254806Z: [Thread 21005] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:16:26.254828Z: [Thread 21005] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:16:26.254934Z: [Thread 21005] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:17:28.030800Z: [Thread 20996] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:17:28.036070Z: [Thread 20996] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:17:29.154228Z: [Thread 20996] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:17:29.154292Z: [Thread 20996] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:17:29.172452Z: [Thread 20996] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:17:29.208150Z: [Thread 20996] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:17:29.258718Z: [Thread 20996] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:17:29.275588Z: [Thread 20996] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:17:29.306474Z: [Thread 20996] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:17:29.306512Z: [Thread 20996] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:17:29.306640Z: [Thread 20996] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:17:29.306666Z: [Thread 20996] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:17:29.306694Z: [Thread 20996] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:17:29.306806Z: [Thread 20996] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:18:21.246830Z: [Thread 20997] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:18:21.251952Z: [Thread 20997] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:18:22.580554Z: [Thread 20997] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:18:22.580612Z: [Thread 20997] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:18:22.587204Z: [Thread 20997] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:18:22.610476Z: [Thread 20997] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:18:22.668150Z: [Thread 20997] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:18:22.680690Z: [Thread 20997] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:18:22.711516Z: [Thread 20997] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:18:22.711552Z: [Thread 20997] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:18:22.711648Z: [Thread 20997] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:18:22.711674Z: [Thread 20997] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:18:22.711702Z: [Thread 20997] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:18:22.711806Z: [Thread 20997] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:19:00.179051Z: [Thread 20998] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:19:00.182742Z: [Thread 20998] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:19:02.324574Z: [Thread 20998] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:19:02.324627Z: [Thread 20998] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:19:02.344915Z: [Thread 20998] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:19:02.367707Z: [Thread 20998] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:19:02.433525Z: [Thread 20998] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:19:02.449512Z: [Thread 20998] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:19:02.480508Z: [Thread 20998] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:19:02.480556Z: [Thread 20998] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:19:02.480681Z: [Thread 20998] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:19:02.480712Z: [Thread 20998] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:19:02.480736Z: [Thread 20998] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:19:02.480882Z: [Thread 20998] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:19:56.476528Z: [Thread 20999] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:19:56.480196Z: [Thread 20999] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:19:57.894720Z: [Thread 20999] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:19:57.894776Z: [Thread 20999] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:19:57.908828Z: [Thread 20999] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:19:57.937760Z: [Thread 20999] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:19:58.002628Z: [Thread 20999] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:19:58.015084Z: [Thread 20999] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:19:58.045976Z: [Thread 20999] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:19:58.046024Z: [Thread 20999] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:19:58.046148Z: [Thread 20999] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:19:58.046180Z: [Thread 20999] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:19:58.046204Z: [Thread 20999] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:19:58.046328Z: [Thread 20999] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:20:45.281016Z: [Thread 21000] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:20:45.286048Z: [Thread 21000] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:20:45.483804Z: [Thread 21000] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:20:45.483852Z: [Thread 21000] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:20:45.490644Z: [Thread 21000] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:20:45.520100Z: [Thread 21000] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:20:45.572736Z: [Thread 21000] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:20:45.586376Z: [Thread 21000] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:20:45.617372Z: [Thread 21000] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:20:45.617424Z: [Thread 21000] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:20:45.617572Z: [Thread 21000] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:20:45.617608Z: [Thread 21000] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:20:45.617636Z: [Thread 21000] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:20:45.617776Z: [Thread 21000] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:22:35.364308Z: [Thread 21001] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:22:35.368636Z: [Thread 21001] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:22:38.342356Z: [Thread 21001] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:22:38.342412Z: [Thread 21001] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:22:38.346660Z: [Thread 21001] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:22:38.374668Z: [Thread 21001] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:22:38.434900Z: [Thread 21001] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:22:38.448824Z: [Thread 21001] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:22:38.479912Z: [Thread 21001] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:22:38.479960Z: [Thread 21001] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:22:38.480108Z: [Thread 21001] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:22:38.480140Z: [Thread 21001] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:22:38.480168Z: [Thread 21001] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:22:38.480288Z: [Thread 21001] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:24:07.061657Z: [Thread 21002] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:24:07.065959Z: [Thread 21002] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:24:09.124998Z: [Thread 21002] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:24:09.125054Z: [Thread 21002] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:24:09.133117Z: [Thread 21002] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:24:09.154280Z: [Thread 21002] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:24:09.202535Z: [Thread 21002] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:24:09.214696Z: [Thread 21002] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:24:09.245577Z: [Thread 21002] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:24:09.245643Z: [Thread 21002] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:24:09.245792Z: [Thread 21002] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:24:09.245827Z: [Thread 21002] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:24:09.245853Z: [Thread 21002] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:24:09.245988Z: [Thread 21002] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:26:24.696948Z: [Thread 21003] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:26:24.700108Z: [Thread 21003] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:26:27.224884Z: [Thread 21003] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:26:27.224946Z: [Thread 21003] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:26:27.245168Z: [Thread 21003] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:26:27.264752Z: [Thread 21003] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:26:27.330442Z: [Thread 21003] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:26:27.341264Z: [Thread 21003] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:26:27.372040Z: [Thread 21003] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:26:27.372086Z: [Thread 21003] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:26:27.372208Z: [Thread 21003] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:26:27.372234Z: [Thread 21003] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:26:27.372252Z: [Thread 21003] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:26:27.372350Z: [Thread 21003] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:26:49.068652Z: [Thread 29408] (Msg 1/4) BIP3120E: Exception condition detected on input node 'sampleFlow.HTTP Input'. 
+2022-08-08 15:26:49.068696Z: [Thread 29408] (Msg 2/4) BIP2230E: Error detected whilst processing a message in node 'sampleFlow.Mapping'. 
+2022-08-08 15:26:49.069248Z: [Thread 29408] (Msg 3/4) BIP5009E: XML Parsing Errors have occurred. 
+2022-08-08 15:26:49.069284Z: [Thread 29408] (Msg 4/4) BIP5004E: An XML parsing error 'An invalid XML character (Unicode: 0x7b) was found in the prolog of the document.' occurred on line 1 column 1 when parsing element '/Root/XMLNSC'.  Internal error codes are '1504' and '2'. 
+2022-08-08 15:27:18.189060Z: [Thread 21004] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:27:18.193708Z: [Thread 21004] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:27:20.071834Z: [Thread 21004] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:27:20.071884Z: [Thread 21004] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:27:20.088746Z: [Thread 21004] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:27:20.119154Z: [Thread 21004] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:27:20.177640Z: [Thread 21004] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:27:20.190030Z: [Thread 21004] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:27:20.221032Z: [Thread 21004] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:27:20.221074Z: [Thread 21004] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:27:20.221206Z: [Thread 21004] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:27:20.221232Z: [Thread 21004] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:27:20.221252Z: [Thread 21004] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:27:20.221360Z: [Thread 21004] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:28:02.212869Z: [Thread 21005] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:28:02.216180Z: [Thread 21005] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:28:03.389727Z: [Thread 21005] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:28:03.389774Z: [Thread 21005] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:28:03.407539Z: [Thread 21005] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:28:03.429419Z: [Thread 21005] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:28:03.487461Z: [Thread 21005] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:28:03.499264Z: [Thread 21005] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:28:03.530122Z: [Thread 21005] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:28:03.530159Z: [Thread 21005] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:28:03.530267Z: [Thread 21005] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:28:03.530289Z: [Thread 21005] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:28:03.530308Z: [Thread 21005] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:28:03.530411Z: [Thread 21005] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:28:06.081074Z: [Thread 29741] (Msg 1/4) BIP2232E: Error detected whilst handling a previous error in node 'sampleFlow.Throw'. 
+2022-08-08 15:28:06.081112Z: [Thread 29741] (Msg 2/4) BIP2230E: Error detected whilst processing a message in node 'sampleFlow.Mapping'. 
+2022-08-08 15:28:06.081123Z: [Thread 29741] (Msg 3/4) BIP5009E: XML Parsing Errors have occurred. 
+2022-08-08 15:28:06.081148Z: [Thread 29741] (Msg 4/4) BIP5004E: An XML parsing error 'An invalid XML character (Unicode: 0x7b) was found in the prolog of the document.' occurred on line 1 column 1 when parsing element '/Root/XMLNSC'.  Internal error codes are '1504' and '2'. 
+2022-08-08 15:28:06.081257Z: [Thread 29741] (Msg 1/2) BIP3120E: Exception condition detected on input node 'sampleFlow.HTTP Input'. 
+2022-08-08 15:28:06.081273Z: [Thread 29741] (Msg 2/2) BIP3001I: Exception thrown by throw node 'sampleFlow.Throw'; text is 'Error en el formato del mensaje de entrada'. 
+2022-08-08 15:28:29.415278Z: [Thread 20996] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:28:29.419226Z: [Thread 20996] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:28:32.083500Z: [Thread 20996] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:28:32.083554Z: [Thread 20996] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:28:32.102070Z: [Thread 20996] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:28:32.130906Z: [Thread 20996] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:28:32.188000Z: [Thread 20996] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:28:32.199776Z: [Thread 20996] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:28:32.230628Z: [Thread 20996] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:28:32.230674Z: [Thread 20996] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:28:32.230778Z: [Thread 20996] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:28:32.230800Z: [Thread 20996] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:28:32.230820Z: [Thread 20996] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:28:32.230926Z: [Thread 20996] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:28:35.163140Z: [Thread 29812] (Msg 1/4) BIP2232E: Error detected whilst handling a previous error in node 'sampleFlow.Throw'. 
+2022-08-08 15:28:35.163172Z: [Thread 29812] (Msg 2/4) BIP2230E: Error detected whilst processing a message in node 'sampleFlow.Mapping'. 
+2022-08-08 15:28:35.163184Z: [Thread 29812] (Msg 3/4) BIP5009E: XML Parsing Errors have occurred. 
+2022-08-08 15:28:35.163212Z: [Thread 29812] (Msg 4/4) BIP5004E: An XML parsing error 'An invalid XML character (Unicode: 0x7b) was found in the prolog of the document.' occurred on line 1 column 1 when parsing element '/Root/XMLNSC'.  Internal error codes are '1504' and '2'. 
+2022-08-08 15:28:35.163316Z: [Thread 29812] (Msg 1/2) BIP3120E: Exception condition detected on input node 'sampleFlow.HTTP Input'. 
+2022-08-08 15:28:35.163332Z: [Thread 29812] (Msg 2/2) BIP3001I: Exception thrown by throw node 'sampleFlow.Throw'; text is 'Error en el formato del mensaje de entrada'. 
+2022-08-08 15:29:00.931054Z: [Thread 20997] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:29:00.934281Z: [Thread 20997] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:29:01.165708Z: [Thread 20997] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:29:01.165753Z: [Thread 20997] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:29:01.183392Z: [Thread 20997] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:29:01.201721Z: [Thread 20997] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:29:01.262771Z: [Thread 20997] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:29:01.273902Z: [Thread 20997] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:29:01.304752Z: [Thread 20997] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:29:01.304789Z: [Thread 20997] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:29:01.304906Z: [Thread 20997] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:29:01.304931Z: [Thread 20997] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:29:01.304949Z: [Thread 20997] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:29:01.305075Z: [Thread 20997] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:29:09.114165Z: [Thread 29909] (Msg 1/4) BIP2232E: Error detected whilst handling a previous error in node 'sampleFlow.Throw'. 
+2022-08-08 15:29:09.114205Z: [Thread 29909] (Msg 2/4) BIP2230E: Error detected whilst processing a message in node 'sampleFlow.Mapping'. 
+2022-08-08 15:29:09.114216Z: [Thread 29909] (Msg 3/4) BIP5009E: XML Parsing Errors have occurred. 
+2022-08-08 15:29:09.114241Z: [Thread 29909] (Msg 4/4) BIP5004E: An XML parsing error 'An invalid XML character (Unicode: 0x7b) was found in the prolog of the document.' occurred on line 1 column 1 when parsing element '/Root/XMLNSC'.  Internal error codes are '1504' and '2'. 
+2022-08-08 15:29:09.114364Z: [Thread 29909] (Msg 1/2) BIP3120E: Exception condition detected on input node 'sampleFlow.HTTP Input'. 
+2022-08-08 15:29:09.114380Z: [Thread 29909] (Msg 2/2) BIP3001I: Exception thrown by throw node 'sampleFlow.Throw'; text is 'Error en el formato del mensaje de entrada'. 
+2022-08-08 15:31:03.446509Z: [Thread 20998] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:31:03.449775Z: [Thread 20998] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:31:05.119800Z: [Thread 20998] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:31:05.119852Z: [Thread 20998] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:31:05.133670Z: [Thread 20998] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:31:05.150913Z: [Thread 20998] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:31:05.205694Z: [Thread 20998] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:31:05.216892Z: [Thread 20998] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:31:05.247700Z: [Thread 20998] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:31:05.247795Z: [Thread 20998] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:31:05.247877Z: [Thread 20998] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:31:05.247901Z: [Thread 20998] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:31:05.247918Z: [Thread 20998] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:31:05.248013Z: [Thread 20998] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:31:07.577589Z: [Thread 30060] (Msg 1/4) BIP2232E: Error detected whilst handling a previous error in node 'sampleFlow.Map Error'. 
+2022-08-08 15:31:07.577639Z: [Thread 30060] (Msg 2/4) BIP2230E: Error detected whilst processing a message in node 'sampleFlow.Mapping'. 
+2022-08-08 15:31:07.577657Z: [Thread 30060] (Msg 3/4) BIP5009E: XML Parsing Errors have occurred. 
+2022-08-08 15:31:07.577701Z: [Thread 30060] (Msg 4/4) BIP5004E: An XML parsing error 'An invalid XML character (Unicode: 0x7b) was found in the prolog of the document.' occurred on line 1 column 1 when parsing element '/Root/XMLNSC'.  Internal error codes are '1504' and '2'. 
+2022-08-08 15:31:07.577851Z: [Thread 30060] (Msg 1/2) BIP3120E: Exception condition detected on input node 'sampleFlow.HTTP Input'. 
+2022-08-08 15:31:07.577874Z: [Thread 30060] (Msg 2/2) BIP3001I: Exception thrown by throw node 'sampleFlow.Map Error'; text is 'Error en el formato del mensaje de entrada'. 
+2022-08-08 15:31:29.460296Z: [Thread 30060] (Msg 1/4) BIP2232E: Error detected whilst handling a previous error in node 'sampleFlow.Map Error'. 
+2022-08-08 15:31:29.460336Z: [Thread 30060] (Msg 2/4) BIP2230E: Error detected whilst processing a message in node 'sampleFlow.Mapping'. 
+2022-08-08 15:31:29.460346Z: [Thread 30060] (Msg 3/4) BIP5009E: XML Parsing Errors have occurred. 
+2022-08-08 15:31:29.460372Z: [Thread 30060] (Msg 4/4) BIP5004E: An XML parsing error 'An invalid XML character (Unicode: 0x7b) was found in the prolog of the document.' occurred on line 1 column 1 when parsing element '/Root/XMLNSC'.  Internal error codes are '1504' and '2'. 
+2022-08-08 15:31:29.460494Z: [Thread 30060] (Msg 1/2) BIP3120E: Exception condition detected on input node 'sampleFlow.HTTP Input'. 
+2022-08-08 15:31:29.460520Z: [Thread 30060] (Msg 2/2) BIP3001I: Exception thrown by throw node 'sampleFlow.Map Error'; text is 'Error en el formato del mensaje de entrada'. 
+2022-08-08 15:32:30.968328Z: [Thread 20999] (Msg 1/1) BIP2152I: Configuration message received. 
+2022-08-08 15:32:30.971246Z: [Thread 20999] (Msg 1/1) BIP2155I: About to 'Stop' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:32:35.463684Z: [Thread 20999] (Msg 1/1) BIP2271I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') successfully stopped. 
+2022-08-08 15:32:35.463736Z: [Thread 20999] (Msg 1/1) BIP2155I: About to 'TearDown' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:32:35.466400Z: [Thread 20999] (Msg 1/1) BIP3133I: The HTTP Listener has stopped listening on port '7800' for 'http' connections. 
+2022-08-08 15:32:35.483748Z: [Thread 20999] (Msg 1/1) BIP2155I: About to 'Initialize' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:32:35.530888Z: [Thread 20999] (Msg 1/1) BIP9342I: Created compiled 'XMLNSC' schema file 'sample-project/$mqsiApplication.bir'. 
+2022-08-08 15:32:35.542204Z: [Thread 20999] (Msg 1/1) BIP2155I: About to 'Start' the deployed resource 'sample-project' of type 'Application'. 
+2022-08-08 15:32:35.573576Z: [Thread 20999] (Msg 1/1) BIP3132I: The HTTP Listener has started listening on port '7800' for 'http' connections. 
+2022-08-08 15:32:35.573612Z: [Thread 20999] (Msg 1/1) BIP1996I: Listening on HTTP URL '/ace-demo/vote'. 
+2022-08-08 15:32:35.573740Z: [Thread 20999] (Msg 1/1) BIP2269I: Deployed resource 'sampleFlow' (uuid='sampleFlow',type='MessageFlow') started successfully. 
+2022-08-08 15:32:35.573764Z: [Thread 20999] (Msg 1/1) BIP9332I: Application 'sample-project' has been changed successfully. 
+2022-08-08 15:32:35.573784Z: [Thread 20999] (Msg 1/1) BIP9326I: The source 'sample-projectproject.generated.bar' has been successfully deployed. 
+2022-08-08 15:32:35.573904Z: [Thread 20999] (Msg 1/1) BIP2154I: Integration server finished with Configuration message. 
+2022-08-08 15:32:40.047220Z: [Thread 30424] (Msg 1/4) BIP2232E: Error detected whilst handling a previous error in node 'sampleFlow.Map Error'. 
+2022-08-08 15:32:40.047252Z: [Thread 30424] (Msg 2/4) BIP2230E: Error detected whilst processing a message in node 'sampleFlow.Mapping'. 
+2022-08-08 15:32:40.047264Z: [Thread 30424] (Msg 3/4) BIP5009E: XML Parsing Errors have occurred. 
+2022-08-08 15:32:40.047292Z: [Thread 30424] (Msg 4/4) BIP5004E: An XML parsing error 'An invalid XML character (Unicode: 0x7b) was found in the prolog of the document.' occurred on line 1 column 1 when parsing element '/Root/XMLNSC'.  Internal error codes are '1504' and '2'. 
+2022-08-08 15:32:40.047392Z: [Thread 30424] (Msg 1/2) BIP3120E: Exception condition detected on input node 'sampleFlow.HTTP Input'. 
+2022-08-08 15:32:40.047408Z: [Thread 30424] (Msg 2/2) BIP3001I: Exception thrown by throw node 'sampleFlow.Map Error'; text is 'Error en el formato del mensaje de entrada'. 
+2022-08-08 15:57:43.522076Z: [Thread 30424] (Msg 1/4) BIP2232E: Error detected whilst handling a previous error in node 'sampleFlow.Map Error'. 
+2022-08-08 15:57:43.522108Z: [Thread 30424] (Msg 2/4) BIP2230E: Error detected whilst processing a message in node 'sampleFlow.Mapping'. 
+2022-08-08 15:57:43.522120Z: [Thread 30424] (Msg 3/4) BIP5009E: XML Parsing Errors have occurred. 
+2022-08-08 15:57:43.522144Z: [Thread 30424] (Msg 4/4) BIP5004E: An XML parsing error 'An invalid XML character (Unicode: 0x7b) was found in the prolog of the document.' occurred on line 1 column 1 when parsing element '/Root/XMLNSC'.  Internal error codes are '1504' and '2'. 
+2022-08-08 15:57:43.522248Z: [Thread 30424] (Msg 1/2) BIP3120E: Exception condition detected on input node 'sampleFlow.HTTP Input'. 
+2022-08-08 15:57:43.522264Z: [Thread 30424] (Msg 2/2) BIP3001I: Exception thrown by throw node 'sampleFlow.Map Error'; text is 'Error en el formato del mensaje de entrada'. 
+2022-08-08 15:58:59.427240Z: [Thread 30424] (Msg 1/4) BIP2232E: Error detected whilst handling a previous error in node 'sampleFlow.Map Error'. 
+2022-08-08 15:58:59.427284Z: [Thread 30424] (Msg 2/4) BIP2230E: Error detected whilst processing a message in node 'sampleFlow.Mapping'. 
+2022-08-08 15:58:59.427296Z: [Thread 30424] (Msg 3/4) BIP5009E: XML Parsing Errors have occurred. 
+2022-08-08 15:58:59.427320Z: [Thread 30424] (Msg 4/4) BIP5004E: An XML parsing error 'The markup in the document following the root element must be well-formed.' occurred on line 3 column 4 when parsing element '/Root/XMLNSC'.  Internal error codes are '1512' and '2'. 
+2022-08-08 15:58:59.427424Z: [Thread 30424] (Msg 1/2) BIP3120E: Exception condition detected on input node 'sampleFlow.HTTP Input'. 
+2022-08-08 15:58:59.427440Z: [Thread 30424] (Msg 2/2) BIP3001I: Exception thrown by throw node 'sampleFlow.Map Error'; text is 'Error en el formato del mensaje de entrada'. 
+2022-08-08 15:59:09.859374Z: [Thread 30424] (Msg 1/4) BIP2232E: Error detected whilst handling a previous error in node 'sampleFlow.Map Error'. 
+2022-08-08 15:59:09.859410Z: [Thread 30424] (Msg 2/4) BIP2230E: Error detected whilst processing a message in node 'sampleFlow.Mapping'. 
+2022-08-08 15:59:09.859422Z: [Thread 30424] (Msg 3/4) BIP5009E: XML Parsing Errors have occurred. 
+2022-08-08 15:59:09.859446Z: [Thread 30424] (Msg 4/4) BIP5004E: An XML parsing error 'The markup in the document following the root element must be well-formed.' occurred on line 3 column 4 when parsing element '/Root/XMLNSC'.  Internal error codes are '1512' and '2'. 
+2022-08-08 15:59:09.859553Z: [Thread 30424] (Msg 1/2) BIP3120E: Exception condition detected on input node 'sampleFlow.HTTP Input'. 
+2022-08-08 15:59:09.859568Z: [Thread 30424] (Msg 2/2) BIP3001I: Exception thrown by throw node 'sampleFlow.Map Error'; text is 'Error en el formato del mensaje de entrada'. 
+2022-08-08 15:59:22.451960Z: [Thread 30424] (Msg 1/4) BIP2232E: Error detected whilst handling a previous error in node 'sampleFlow.Map Error'. 
+2022-08-08 15:59:22.452004Z: [Thread 30424] (Msg 2/4) BIP2230E: Error detected whilst processing a message in node 'sampleFlow.Mapping'. 
+2022-08-08 15:59:22.452014Z: [Thread 30424] (Msg 3/4) BIP5009E: XML Parsing Errors have occurred. 
+2022-08-08 15:59:22.452040Z: [Thread 30424] (Msg 4/4) BIP5004E: An XML parsing error 'Attribute name "Park" must be followed by the ''='' character.' occurred on line 3 column 29 when parsing element '/Root/XMLNSC/vote'.  Internal error codes are '1516' and '2'. 
+2022-08-08 15:59:22.452144Z: [Thread 30424] (Msg 1/2) BIP3120E: Exception condition detected on input node 'sampleFlow.HTTP Input'. 
+2022-08-08 15:59:22.452160Z: [Thread 30424] (Msg 2/2) BIP3001I: Exception thrown by throw node 'sampleFlow.Map Error'; text is 'Error en el formato del mensaje de entrada'. 

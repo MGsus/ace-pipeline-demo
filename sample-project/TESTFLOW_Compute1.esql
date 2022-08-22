@@ -21,8 +21,8 @@ CREATE COMPUTE MODULE TESTFLOW_Compute1
 	END;
 
 	CREATE PROCEDURE CopyEntireMessage() BEGIN
-		SET OutputRoot = InputRoot;
-		SET OutputRoot.JSON.Data.type = 'Auditoria';
-		SET OutputRoot.JSON.Data.timestamp = InputRoot.Properties.CreationTime;
+--		SET OutputRoot = InputRoot;
+		SET OutputRoot.JSON.Data.result = 'Voto aceptado';
+		SET OutputRoot.JSON.Data.timestamp = CURRENT_TIMESTAMP;
 	END;
 END MODULE;

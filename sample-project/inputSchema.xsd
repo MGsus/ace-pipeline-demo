@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<element name="vote">
+        <complexType>
+            <sequence>
+            	<element name="VoterName" type="string" />
+            	<element name="VoterAddress" type="string" />
+                <element name="VotingIntention" type="string" />
+            </sequence>
+         </complexType>
+    </element>
+</schema>

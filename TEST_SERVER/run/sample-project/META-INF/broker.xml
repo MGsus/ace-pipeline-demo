@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Broker deployBarfile="sample-projectproject.generated.bar" deployTimestamp="2022-08-08 15:32:30">
+  <CompiledApplication>
+    <ConfigurableProperty uri="startMode">
+    </ConfigurableProperty>
+  </CompiledApplication>
+  <CompiledMessageFlow name="sampleFlow" deployBarfile="sample-projectproject.generated.bar" deployTimestamp="2022-08-08 15:32:30">
+    <ConfigurableProperty uri="sampleFlow#HTTP Input.URLSpecifier" override="/ace-demo/vote">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#HTTP Input.decompressInputMessage">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#HTTP Input.faultFormat" override="JSON">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#HTTP Input.securityProfileName">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#HTTP Input.timeoutForClient">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#HTTP Input.useHTTPS">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#HTTP Input.validateMaster">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#HTTP Reply.validateMaster">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#Vote.connectDatasourceBeforeFlowStarts">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#Vote.dataSource">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#Vote.validateMaster">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#additionalInstances">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#commitCount">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#commitInterval">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#consumerPolicySet">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#consumerPolicySetBindings">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#coordinatedTransaction">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#maximumRateMsgsPerSec">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#monitoringProfile">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#notificationThresholdMsgsPerSec">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#processingTimeoutAction">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#processingTimeoutSec">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#providerPolicySet">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#providerPolicySetBindings">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#securityProfileName">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#startInstancesWhenFlowStarts">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#startMode">
+    </ConfigurableProperty>
+    <ConfigurableProperty uri="sampleFlow#wlmPolicy">
+    </ConfigurableProperty>
+  </CompiledMessageFlow>
+</Broker>
